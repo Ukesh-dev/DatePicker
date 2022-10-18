@@ -1,0 +1,22 @@
+{
+  "name": "datepicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.40.1",
+    "@typescript-eslint/parser": "^5.40.1",
+    "eslint": "^8.25.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
